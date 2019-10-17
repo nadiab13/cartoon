@@ -1,0 +1,33 @@
+body{
+	background-color: lightgrey;
+}
+
+
+h1{
+	color: red;
+		font-size:50px;
+		text-decoration: underline;
+}
+	#first{
+		font-size: 150px;
+}
+
+h2{
+	font-size: 30;
+	color: green;
+	text-decoration: overline;
+}
+
+.small{
+	font: fantasy;
+	font-size: 12px;
+
+}
+
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through;
+}
